@@ -8,10 +8,28 @@ body {
 
 h1 {
     font-size: 45px;
+    text-align: center;
+}
+
+li {
+    margin: 10px;
 }
 
 a {
     text-decoration: none;
     color: black;
     border: 1px solid black;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    border: 1px solid black;
+}
+
+.btn-back {
+    display: block;
+    text-align: center;
+    width: 300px;
+    margin: 10px auto;
 }
